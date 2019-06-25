@@ -1,6 +1,10 @@
 # ExerciciosJava
 suíte de algoritmos em Java para validação de conceitos aprendidos
 
+## Teste 0
+
+As respostas referentes ao teste 0 podem ser encontradas no arquivo respostas.pdf, no diretorio raiz do repositório.
+
 ## Teste 1
 
 O teste 1 foi feito em java com um projeto maven, ja que se utiliza de uma dependencia externa, que é um parseador JSON. O teste trata de pegar dados de filmes de uma api publica a partir de uma substring do nome do filme, parsea-los e retornar uma lista ordenada dos titulos destes filmes. Apesar da simplicidade do agoritmo, o maior desafio encontrado foi me reacostumar com a IDE do eclipse e com a linguagem Java, ja que nao mexia com os mesmos há um tempo.
