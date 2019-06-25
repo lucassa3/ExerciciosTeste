@@ -7,4 +7,4 @@ O teste 1 foi feito em java com um projeto maven, ja que se utiliza de uma depen
 
 ## Teste 2
 
-O teste 2 consiste de um simples metodo python, com um algoritmo para achar a menor substring de um input contendo todos os caracteres presentes em uma lista. Por considerar que minha primeira estratégia pensada (testar todas as substrings diferentes e verificar se eleas continham os caracteres) era extremamente ineficientse, o maior desafio foi encontrar uma solução que encontrasse a menor substring com apenas uma passagem pela entrada, tornando a complexidade do algoritmo O(n), o que foi alcançado.
+O teste 2 consiste de um simples metodo python, com um algoritmo para achar a menor substring de um input contendo todos os caracteres presentes em uma lista. Por considerar que minha primeira estratégia pensada (testar todas as substrings diferentes e verificar se eleas continham os caracteres) era extremamente ineficiente, o maior desafio foi encontrar uma solução que encontrasse a menor substring com apenas uma passagem pela entrada, tornando a complexidade do algoritmo O(n), o que foi alcançado.
