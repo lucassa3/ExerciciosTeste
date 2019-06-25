@@ -11,8 +11,6 @@ def findShortestSubstringLen(string, target):
   counter = 0
   ptr = 0
 
-  print(char_dict)
-
   for i in range(len(string)):
     if string[i] in char_dict:
       char_dict[string[i]] -= 1
